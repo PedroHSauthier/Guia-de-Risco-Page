@@ -85,13 +85,6 @@ function App() {
             <p>Gere relatórios personalizados por período, setor ou tipo de risco. Exporte dados em PDF, Excel ou CSV.</p>
           </div>
         </div>
-        <div className="nav-item">
-          <div className="nav-item-icon">⚠️</div>
-          <div className="nav-item-content">
-            <h3>Análise de Tendências</h3>
-            <p>Identifique padrões e tendências nos riscos identificados. Visualize gráficos evolutivos e análises comparativas.</p>
-          </div>
-        </div>
       </div>
 
       <div className="steps-grid">
